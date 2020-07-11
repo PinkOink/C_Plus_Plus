@@ -1,0 +1,209 @@
+menu_begin
+
+ window_begin
+
+ window_red 0.8
+ window_green 0.8
+ window_blue 0.8
+
+  button_begin
+  
+  button_red 0.6
+  button_green 0.6
+  button_blue 0.6
+
+  button_text_red 0
+  button_text_green 0
+  button_text_blue 0
+
+  button_text_x -0.1
+  button_text_y 0.8
+
+  button_text Go_to_Window_2
+
+  button_pos_x_r 0.5
+  button_pos_y_u 0.9
+  button_pos_x_l -0.5
+  button_pos_y_d 0.7
+
+  button_goto 1
+  
+  button_end
+
+
+  button_begin
+  
+  button_red 0.6
+  button_green 0.6
+  button_blue 0.6
+
+  button_text_red 0
+  button_text_green 0
+  button_text_blue 0
+
+  button_text_x -0.1
+  button_text_y 0.5
+
+  button_text Open_new_window
+
+  button_pos_x_r 0.5
+  button_pos_y_u 0.6
+  button_pos_x_l -0.5
+  button_pos_y_d 0.4
+
+  button_goto -5
+  
+  button_end
+
+
+  button_begin
+  
+  button_red 0.6
+  button_green 0.6
+  button_blue 0.6
+
+  button_text_red 0
+  button_text_green 0
+  button_text_blue 0
+
+  button_text_x -0.1
+  button_text_y 0.2
+
+  button_text Go_to_Window_3
+
+  button_pos_x_r 0.5
+  button_pos_y_u 0.3
+  button_pos_x_l -0.5
+  button_pos_y_d 0.1
+
+  button_goto 2
+  
+  button_end
+
+ window_end
+
+
+ window_begin
+
+ window_red 0.8
+ window_green 0.8
+ window_blue 0.8
+
+  button_begin
+  
+  button_red 0.6
+  button_green 0.6
+  button_blue 0.6
+
+  button_text_red 0
+  button_text_green 0
+  button_text_blue 0
+
+  button_text_x -0.1
+  button_text_y 0.5
+
+  button_text Go_to_Window_1
+
+  button_pos_x_r 0.5
+  button_pos_y_u 0.6
+  button_pos_x_l -0.5
+  button_pos_y_d 0.4
+
+  button_goto 0
+  
+  button_end
+
+
+  button_begin
+  
+  button_red 0.6
+  button_green 0.6
+  button_blue 0.6
+
+  button_text_red 0
+  button_text_green 0
+  button_text_blue 0
+
+  button_text_x -0.1
+  button_text_y 0.2
+
+  button_text Go_to_Window_3
+
+  button_pos_x_r 0.5
+  button_pos_y_u 0.3
+  button_pos_x_l -0.5
+  button_pos_y_d 0.1
+
+  button_goto 2
+  
+  button_end
+
+ window_end
+
+
+ window_begin
+
+ window_red 0.8
+ window_green 0.8
+ window_blue 0.8
+
+  button_begin
+  
+  button_red 0.6
+  button_green 0.6
+  button_blue 0.6
+
+  button_text_red 0
+  button_text_green 0
+  button_text_blue 0
+
+  button_text_x -0.1
+  button_text_y 0.2
+
+  button_text Go_to_Window_1
+
+  button_pos_x_r 0.5
+  button_pos_y_u 0.3
+  button_pos_x_l -0.5
+  button_pos_y_d 0.1
+
+  button_goto 0
+  
+  button_end
+
+ window_end
+
+
+ window_begin
+
+ window_red 0.8
+ window_green 0.8
+ window_blue 0.8
+
+  button_begin
+  
+  button_red 0.6
+  button_green 0.6
+  button_blue 0.6
+
+  button_text_red 0
+  button_text_green 0
+  button_text_blue 0
+
+  button_text_x -0.1
+  button_text_y 0
+
+  button_text Close
+
+  button_pos_x_r 0.5
+  button_pos_y_u 0.5
+  button_pos_x_l -0.5
+  button_pos_y_d -0.5
+
+  button_goto -1
+  
+  button_end
+
+ window_end
+
+menu_end
